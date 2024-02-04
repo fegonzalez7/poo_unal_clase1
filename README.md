@@ -17,16 +17,20 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación...esta vez para 
 **Slack del curso:** [Link para unirse]()<br>
 
 ### Objetivos del curso
-(Oficiales)
-1. Comprender y Aplicar los Principios Fundamentales de la POO.
-2. Desarrollar Habilidades de Pensamiento Analítico para el Diseño de Software.
-3. Resolver Problemas Complejos mediante la Implementación de Patrones de Diseño y Principios de POO.
+<h3>Oficiales</h3>
+<ol>
+  <li>Comprender y Aplicar los Principios Fundamentales de la POO.</li>
+  <li>Desarrollar Habilidades de Pensamiento Analítico para el Diseño de Software.</li>
+  <li>Resolver Problemas Complejos mediante la Implementación de Patrones de Diseño y Principios de POO.</li>
+</ol>
 
-(No oficiales)
-4. Abstraer problemas y proponer una soluciones basadas en POO usando algoritmos codificados.<br>
-5. Utilizar herramientas útiles en el entorno de la programación (GitHub, VS Code, Slack, Terminal)<br>
-6. Potenciar habilidades técnicas y suaves.<br>
-7. Aprender lecciones que van más allá de la clase.
+<h3>No oficiales</h3>
+<ol start="4">
+  <li>Abstraer problemas y proponer una soluciones basadas en POO usando algoritmos codificados.</li>
+  <li>Utilizar herramientas útiles en el entorno de la programación (GitHub, VS Code, Slack, Terminal)</li>
+  <li>Potenciar habilidades técnicas y suaves.</li>
+  <li>Aprender lecciones que van más allá de la clase.</li>
+</ol>
 
 
 ## Metodología del curso
@@ -307,7 +311,6 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 
 **P.D.** Para más detalle revisar el [calendario académico](https://bogota.unal.edu.co/la-sede/calendario-academico).
 
-
 ## Código de honor
 *"Siempre parece imposible hasta que se hace."* **Nelson Mandela**
 
@@ -332,4 +335,3 @@ La información del curso se proporcionará mediante presentaciones o mediante r
  - Editor de texto -> Aunque de preferencia un IDE
  - Acceso a compilador/interprete.
  - Acceso a internet.
-
