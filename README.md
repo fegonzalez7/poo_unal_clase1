@@ -4,7 +4,7 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación...esta vez para 
 
 ## Información del curso
 **Nombre de la asignatura:** Programación Orientada a Objetos<br>
-**Código:** 2015734<br>
+**Código:** 2016375<br>
 **Nivel:** Pregrado<br>
 **Sede:** Bogotá<br>
 **Facultad:** Ingeniería<br>
