@@ -78,14 +78,14 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">05/02/2024</td>
     <td class="tg-0lax">Intro al curso</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase1"></a>Clase 1</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase1">Clase 1</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">07/02/2024</td>
     <td class="tg-0lax">Herramientas</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase2"></a>Clase 2</td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase2">Clase 2</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
