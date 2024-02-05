@@ -14,7 +14,7 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación...esta vez para 
 
 **Docente:** [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html)<br>
 **Correo:** <mailto>fegonzalezro@unal.edu.co</mailto><br>
-**Slack del curso:** [Link para unirse]()<br>
+**Slack del curso:** [Link para unirse](https://join.slack.com/t/unal-i5v6006/shared_invite/zt-2calttoz4-rUyggPDmi7PdXod~GjnR8w)<br>
 
 ### Objetivos del curso
 <h3>Oficiales</h3>
@@ -78,14 +78,14 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">05/02/2024</td>
     <td class="tg-0lax">Intro al curso</td>
-    <td class="tg-0lax"><a href=""></a></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase1"></a>Clase 1</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">1</td>
     <td class="tg-0lax">07/02/2024</td>
     <td class="tg-0lax">Herramientas</td>
-    <td class="tg-0lax"><a href=""></a></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase2"></a>Clase 2</td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
