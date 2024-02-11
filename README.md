@@ -92,14 +92,14 @@ La información del curso se proporcionará mediante presentaciones o mediante r
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">12/02/2024</td>
     <td class="tg-0lax">Conceptos de programación estructurada 1</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase3"></a></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase3">Clase 3</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">14/02/2024</td>
     <td class="tg-0lax">Conceptos de programación estructurada 2</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase4"></a></td>
+    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase4">Clase 4</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Semana</td>
