@@ -52,260 +52,254 @@ La información del curso se proporcionará mediante presentaciones o mediante r
  - **\*:** Fechas tentativas.
 
  ## Contenido del curso
-<details><summary>Contenido detallado</summary><p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0w9m{font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0w9m">Semana</th>
-    <th class="tg-0w9m">No</th>
-    <th class="tg-0w9m">Fecha</th>
-    <th class="tg-0w9m">Tema</th>
-    <th class="tg-0w9m">Enlace de interés</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">1</td>
-    <td class="tg-0lax">05/02/2024</td>
-    <td class="tg-0lax">Intro al curso</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase1">Clase 1</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">1</td>
-    <td class="tg-0lax">07/02/2024</td>
-    <td class="tg-0lax">Herramientas</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase2">Clase 2</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">2</td>
-    <td class="tg-0lax">12/02/2024</td>
-    <td class="tg-0lax">Conceptos de programación estructurada 1</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase3">Clase 3</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">2</td>
-    <td class="tg-0lax">14/02/2024</td>
-    <td class="tg-0lax">Conceptos de programación estructurada 2</td>
-    <td class="tg-0lax"><a href="https://github.com/fegonzalez7/poo_unal_clase4">Clase 4</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">3</td>
-    <td class="tg-0lax">19/02/2024</td>
-    <td class="tg-0lax">Objetos y clases</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">3</td>
-    <td class="tg-0lax">21/02/2024</td>
-    <td class="tg-0lax">Pilares de POO</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">4</td>
-    <td class="tg-0lax">26/02/2024</td>
-    <td class="tg-0lax">Abstracción y Herencia</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">4</td>
-    <td class="tg-0lax">28/02/2024</td>
-    <td class="tg-0lax">Herencia vs Composición</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">5</td>
-    <td class="tg-0lax">04/03/2024</td>
-    <td class="tg-0lax">Encapsulamiento</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">5</td>
-    <td class="tg-0lax">06/03/2024</td>
-    <td class="tg-0lax">Poliformismo</td>
-    <td class="tg-0lax"></td>
-  </tr> 
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">6</td>
-    <td class="tg-0lax">11/03/2024</td>
-    <td class="tg-0lax">Sesión de práctica</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">6</td>
-    <td class="tg-0lax">13/03/2024</td>
-    <td class="tg-0lax">Sesión de práctica</td>
-    <td class="tg-0lax"><a href=""><br>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">7</td>
-    <td class="tg-0lax">18/03/2024</td>
-    <td class="tg-0lax">Módulos y paquetes</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">7</td>
-    <td class="tg-0lax">20/03/2024</td>
-    <td class="tg-0lax">Intro proyecto</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">8</td>
-    <td class="tg-0lax">25/03/2024</td>
-    <td class="tg-0lax">Semana Santa</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">8</td>
-    <td class="tg-0lax">25/03/2024</td>
-    <td class="tg-0lax">Semana Santa</td>
-     <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">9</td>
-    <td class="tg-0lax">01/04/2024</td>
-    <td class="tg-0lax">Examen 1</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">9</td>
-    <td class="tg-0lax">03/04/2024</td>
-    <td class="tg-0lax">Manejo de excepciones</td>
-    <td class="tg-0lax"><a href=""></td>
-  </tr> 
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">10</td>
-    <td class="tg-0lax">08/04/2024</td>
-    <td class="tg-0lax">Estructuras de datos</td>
-    <td class="tg-0lax"><a href=""></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">10</td>
-    <td class="tg-0lax">10/04/2024</td>
-    <td class="tg-0lax">Filas (Queues)</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">11</td>
-    <td class="tg-0lax">15/04/2024</td>
-    <td class="tg-0lax">Iteradores</td>
-    <td class="tg-0lax"><a href=""></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">11</td>
-    <td class="tg-0lax">17/04/2024</td>
-    <td class="tg-0lax">Generadores</td>
-    <td class="tg-0lax"><a href=""></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">12</td>
-    <td class="tg-0lax">22/04/2024</td>
-    <td class="tg-0lax">Avance de proyecto</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">12</td>
-    <td class="tg-0lax">24/04/2024</td>
-    <td class="tg-0lax">Avance de proyecto</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">13</td>
-    <td class="tg-0lax">29/04/2024</td>
-    <td class="tg-0lax">Decoradores</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">13</td>
-    <td class="tg-0lax">01/05/2024</td>
-    <td class="tg-0lax">Festivo</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">14</td>
-    <td class="tg-0lax">06/05/2025</td>
-    <td class="tg-0lax">Strings y expresiones regulares</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">14</td>
-    <td class="tg-0lax">08/05/2025</td>
-    <td class="tg-0lax">Testing</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">15</td>
-    <td class="tg-0lax">13/05/2024</td>
-    <td class="tg-0lax">Festivo</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">15</td>
-    <td class="tg-0lax">15/05/2024</td>
-    <td class="tg-0lax">Concurrencia y asincronismo</td>
-    <td class="tg-0lax"><a href=""></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">16</td>
-    <td class="tg-0lax">20/05/2024</td>
-    <td class="tg-0lax">Examen Final</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">17</td>
-    <td class="tg-0lax">27/05/2025</td>
-    <td class="tg-0lax">Entrega final proyecto</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Semana</td>
-    <td class="tg-0lax">17</td>
-    <td class="tg-0lax">29/05/2025</td>
-    <td class="tg-0lax">Entrega final proyecto</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-</p></details>
+<details><summary>Contenido detallado</summary>
+<p>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Semana</th>
+        <th>No</th>
+        <th>Fecha</th>
+        <th>Tema</th>
+        <th>Enlace de interés</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Semana</td>
+        <td>1</td>
+        <td>05/02/2024</td>
+        <td>Intro al curso</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase1">Clase 1</a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>1</td>
+        <td>07/02/2024</td>
+        <td>Herramientas</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase2">Clase 2</a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>2</td>
+        <td>12/02/2024</td>
+        <td>Conceptos de programación estructurada 1</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase3">Clase 3</a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>2</td>
+        <td>14/02/2024</td>
+        <td>Conceptos de programación estructurada 2</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase4">Clase 4</a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>3</td>
+        <td>19/02/2024</td>
+        <td>Objetos y clases</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase5">Clase 5</a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>3</td>
+        <td>21/02/2024</td>
+        <td>Pilares de POO</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>4</td>
+        <td>26/02/2024</td>
+        <td>Abstracción y Herencia</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>4</td>
+        <td>28/02/2024</td>
+        <td>Herencia vs Composición</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>5</td>
+        <td>04/03/2024</td>
+        <td>Encapsulamiento</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>5</td>
+        <td>06/03/2024</td>
+        <td>Poliformismo</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>6</td>
+        <td>11/03/2024</td>
+        <td>Sesión de práctica</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>6</td>
+        <td>13/03/2024</td>
+        <td>Sesión de práctica</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>7</td>
+        <td>18/03/2024</td>
+        <td>Módulos y paquetes</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>7</td>
+        <td>20/03/2024</td>
+        <td>Intro proyecto</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>8</td>
+        <td>25/03/2024</td>
+        <td>Semana Santa</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>8</td>
+        <td>25/03/2024</td>
+        <td>Semana Santa</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>9</td>
+        <td>01/04/2024</td>
+        <td>Examen 1</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>9</td>
+        <td>03/04/2024</td>
+        <td>Manejo de excepciones</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>10</td>
+        <td>08/04/2024</td>
+        <td>Estructuras de datos</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>10</td>
+        <td>10/04/2024</td>
+        <td>Filas (Queues)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>11</td>
+        <td>15/04/2024</td>
+        <td>Iteradores</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>11</td>
+        <td>17/04/2024</td>
+        <td>Generadores</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>12</td>
+        <td>22/04/2024</td>
+        <td>Avance de proyecto</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>12</td>
+        <td>24/04/2024</td>
+        <td>Avance de proyecto</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>13</td>
+        <td>29/04/2024</td>
+        <td>Decoradores</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>13</td>
+        <td>01/05/2024</td>
+        <td>Festivo</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>14</td>
+        <td>06/05/2025</td>
+        <td>Strings y expresiones regulares</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>14</td>
+        <td>08/05/2025</td>
+        <td>Testing</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>15</td>
+        <td>13/05/2024</td>
+        <td>Festivo</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>15</td>
+        <td>15/05/2024</td>
+        <td>Concurrencia y asincronismo</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>16</td>
+        <td>20/05/2024</td>
+        <td>Examen Final</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>17</td>
+        <td>27/05/2025</td>
+        <td>Entrega final proyecto</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>17</td>
+        <td>29/05/2025</td>
+        <td>Entrega final proyecto</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+</details>
 
 **Disclaimer:** Cualquier modificación se informará oportunamente
 
