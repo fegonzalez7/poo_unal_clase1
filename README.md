@@ -1,6 +1,6 @@
 # Programación Orientada a Objetos - UNAL
 
-Bienvenidos (de nuevo) al emocionante mundo de la programación...esta vez para hacer cosas más interesantes...como abstraer el mundo en unos cuantos bytes.
+Bienvenidos (de nuevo) al emocionante mundo de la programación... Esta vez para hacer cosas más interesantes... Como abstraer el mundo en unos cuantos bytes.
 
 ## Información del curso
 **Nombre de la asignatura:** Programación Orientada a Objetos<br>
@@ -26,7 +26,7 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación...esta vez para 
 
 <h3>No oficiales</h3>
 <ol start="4">
-  <li>Abstraer problemas y proponer una soluciones basadas en POO usando algoritmos codificados.</li>
+  <li>Abstraer problemas y proponer soluciones basadas en POO usando algoritmos codificados.</li>
   <li>Utilizar herramientas útiles en el entorno de la programación (GitHub, VS Code, Slack, Terminal)</li>
   <li>Potenciar habilidades técnicas y suaves.</li>
   <li>Aprender lecciones que van más allá de la clase.</li>
@@ -36,7 +36,7 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación...esta vez para 
 ## Metodología del curso
 **Disclaimer:** En este curso se fortalecerá el pensamiento lógico, la resolución de problemas y el enfoque de programación del mundo real.
 
-Desarrollar soluciones lógicas puede ser algo intrínseco de cada persona o se puede aprender, pero como todo es un proceso que lleva tiempo y esfuerzo. Este curso está estructurado de tal manera que provee una guía y facilita material para que el desarrollo de ciertas habilidades pueda darse de forma armónica; sin embargo, no reemplaza el auto-aprendizaje ni el trabajo propio. 
+Desarrollar soluciones lógicas puede ser algo intrínseco de cada persona o se puede aprender, pero como todo, es un proceso que lleva tiempo y esfuerzo. Este curso está estructurado de tal manera que provee una guía y facilita material para que el desarrollo de ciertas habilidades pueda darse de forma armónica; sin embargo, no reemplaza el auto-aprendizaje ni el trabajo propio. 
 
 La información del curso se proporcionará mediante presentaciones o mediante repositorios, la exposición de esta información se dará en horario de clase y estará disponible para consulta posterior (en la mayoría de casos, para consulta previa también). El desarrollo de ejercicios prácticos se hará mediante retos, el conocimiento individual se evaluará mediante exámenes conjuntos y las habilidades generales serán puestas a prueba mediante un proyecto.
 
@@ -70,7 +70,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>1</td>
         <td>05/02/2024</td>
         <td>Intro al curso</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase1">Clase 1</a></td>
+        <td><a href="#programación-orientada-a-objetos---unal">Clase 1</a></td>
       </tr>
       <tr>
         <td>Semana</td>
@@ -310,7 +310,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 
  - Como es bien sabido en la red existen innumerables fuentes de información y recursos disponibles, el "cómo" se usa esa información es lo verdaderamente relevante. En este curso se insta a que se intente, se pruebe, pero sobre todo se aprenda. Que el curso no se vuelva un `ctrl + c` + `ctrl + v`.
 
- - Autoría de código...es difícil hablar de eso, la reutilización está bien siempre y cuando se comprenda cómo funcionan las cosas.
+ - Autoría de código... Es difícil hablar de eso, la reutilización está bien siempre y cuando se comprenda cómo funcionan las cosas.
 
  - **Nuevo:** Uso de herramientas de IA. En este curso en cierto punto se mostrará cómo utilizar *copilot* para mejorar sustancialmente la productividad al codificar.
 
@@ -327,5 +327,5 @@ La información del curso se proporcionará mediante presentaciones o mediante r
  - Computador (personal, salón de clase, pc's de la universidad).
  - **Sistemas operativos:** Windows :confounded:, Linux :alien:, OSX :moneybag:
  - Editor de texto -> Aunque de preferencia un IDE
- - Acceso a compilador/interprete.
+ - Acceso a compilador/intérprete.
  - Acceso a internet.
