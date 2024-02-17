@@ -44,7 +44,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 | Tipo   | %  | Detalle  |
 | ------------ | ------------ | ------------ |
 | Exámenes  | 25 | Exámenes - 1er (10%) semana 9\*, Final (15%) semana 15 |
-| Proyecto  | 40  |  avance (15%) semana 11, entrega final (35%) semana 16\* - grupal |
+| Proyecto  | 40  |  avance (15%) semana 11, entrega final (25%) semana 16\* - grupal |
 | Retos | 35  | Retos, preguntas, etc.  |
 
 - **Individual:**  Se desarrolla y se entrega de forma unipersonal.
@@ -325,7 +325,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
  ## Herramientas
  - Disposición para aprender.
  - Computador (personal, salón de clase, pc's de la universidad).
- - **Sistemas operativos:** Windows :confounded:, Linux :alien:, OSX :moneybag:
+ - **Sistemas operativos:** Windows :expressionless:, Linux :alien:, OSX :moneybag:
  - Editor de texto -> Aunque de preferencia un IDE
  - Acceso a compilador/intérprete.
  - Acceso a internet.
