@@ -104,8 +104,8 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>Semana</td>
         <td>3</td>
         <td>21/02/2024</td>
-        <td>Pilares de POO</td>
-        <td><a href=""></a></td>
+        <td>Objetos y clases (en Python)</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase6">Clase 6</a></td>
       </tr>
       <tr>
         <td>Semana</td>
