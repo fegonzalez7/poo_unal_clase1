@@ -112,21 +112,21 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>4</td>
         <td>26/02/2024</td>
         <td>Abstracción y Herencia</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase7">Clase 7</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>4</td>
         <td>28/02/2024</td>
         <td>Herencia vs Composición</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase8">Clase 8</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>5</td>
         <td>04/03/2024</td>
         <td>Encapsulamiento</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase9">Clase 9</a></td>
       </tr>
       <tr>
         <td>Semana</td>
