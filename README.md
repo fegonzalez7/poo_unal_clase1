@@ -133,7 +133,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>5</td>
         <td>06/03/2024</td>
         <td>Poliformismo</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase9">Clase 10</a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase10">Clase 10</a></td>
       </tr>
       <tr>
         <td>Semana</td>
