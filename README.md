@@ -154,7 +154,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>7</td>
         <td>18/03/2024</td>
         <td>Módulos y paquetes</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase10">Clase 11</a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase11">Clase 11</a></td>
       </tr>
       <tr>
         <td>Semana</td>
@@ -189,7 +189,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>9</td>
         <td>03/04/2024</td>
         <td>Manejo de excepciones</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase12"></a>Clase 12</td>
       </tr>
       <tr>
         <td>Semana</td>
