@@ -189,7 +189,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>9</td>
         <td>03/04/2024</td>
         <td>Manejo de excepciones</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase12"></a>Clase 12</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase12">Clase 12</a></td>
       </tr>
       <tr>
         <td>Semana</td>
