@@ -132,7 +132,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>Semana</td>
         <td>5</td>
         <td>06/03/2024</td>
-        <td>Poliformismo</td>
+        <td>Polimorfismo</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase10">Clase 10</a></td>
       </tr>
       <tr>
@@ -154,7 +154,8 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>7</td>
         <td>18/03/2024</td>
         <td>Módulos y paquetes</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase11">Clase 11</a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase11">Clase 11</a><br>
+        <a href="https://youtu.be/WgD8n3-mmi0">Modulos y Paquetes - Intro Ikigai, charla motivacional</a></td>
       </tr>
       <tr>
         <td>Semana</td>
@@ -189,28 +190,30 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>9</td>
         <td>03/04/2024</td>
         <td>Manejo de excepciones</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase12">Clase 12</a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase12">Clase 12</a><br>
+        <a href="https://youtu.be/NN6DpBngTic">Excepciones</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>10</td>
         <td>08/04/2024</td>
         <td>Estructuras de datos</td>
-        <td><a href=""></a></td>
-      </tr>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.1</a><br>
+        <a href="https://youtu.be/v_ahi64cQ6g">Estructuras de datos en python pt.1</a></td>
       <tr>
         <td>Semana</td>
         <td>10</td>
         <td>10/04/2024</td>
         <td>Filas (Queues)</td>
-        <td></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.2</a><br>
+        <a href="https://youtu.be/JdYdOYzEQHA">Estructuras de datos en python pt.2</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>11</td>
         <td>15/04/2024</td>
         <td>Iteradores</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase14">Clase 14</a></td>
       </tr>
       <tr>
         <td>Semana</td>
