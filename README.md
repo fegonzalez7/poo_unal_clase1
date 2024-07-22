@@ -246,23 +246,15 @@ La información del curso se proporcionará mediante presentaciones o mediante r
       <tr>
         <td>Semana</td>
         <td>13</td>
-        <td>26/08/2024</td>
+        <td>29/08/2024</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>13</td>
-        <td>29/04/2024</td>
-        <td>Decoradores</td>
-        <td><a href=""></a></td>
-      </tr>
-      <tr>
-      <tr>
-        <td>Semana</td>
         <td>14</td>
         <td>02/09/2024</td>
-        <td>Strings y expresiones regulares</td>
+        <td>Decoradores</td>
         <td></td>
       </tr>
       <tr>
@@ -276,14 +268,14 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>Semana</td>
         <td>15</td>
         <td>09/09/2024</td>
-        <td>Concurrencia y asincronismo</td>
+        <td>Strings y expresiones regulares</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>15</td>
         <td>11/09/2024</td>
-        <td>Bonus</td>
+        <td>Concurrencia y asincronismo</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
