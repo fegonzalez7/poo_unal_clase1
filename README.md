@@ -181,14 +181,14 @@ La información del curso se proporcionará mediante presentaciones o mediante r
       <tr>
         <td>Semana</td>
         <td>9</td>
-        <td>01/04/2024</td>
+        <td>29/07/2024</td>
         <td>Examen 1</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>9</td>
-        <td>03/04/2024</td>
+        <td>31/07/2024</td>
         <td>Manejo de excepciones</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase12">Clase 12</a><br>
         <a href="https://youtu.be/NN6DpBngTic">Excepciones</a></td>
@@ -196,14 +196,21 @@ La información del curso se proporcionará mediante presentaciones o mediante r
       <tr>
         <td>Semana</td>
         <td>10</td>
-        <td>08/04/2024</td>
+        <td>05/08/2024</td>
         <td>Estructuras de datos</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.1</a><br>
         <a href="https://youtu.be/v_ahi64cQ6g">Estructuras de datos en python pt.1</a></td>
       <tr>
         <td>Semana</td>
         <td>10</td>
-        <td>10/04/2024</td>
+        <td>07/08/2024</td>
+        <td>Festivo</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>11</td>
+        <td>12/08/2024</td>
         <td>Filas (Queues)</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.2</a><br>
         <a href="https://youtu.be/JdYdOYzEQHA">Estructuras de datos en python pt.2</a></td>
@@ -211,28 +218,35 @@ La información del curso se proporcionará mediante presentaciones o mediante r
       <tr>
         <td>Semana</td>
         <td>11</td>
-        <td>15/04/2024</td>
+        <td>14/08/2024</td>
         <td>Iteradores</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase14">Clase 14</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>11</td>
-        <td>17/04/2024</td>
+        <td>12</td>
+        <td>19/08/2024</td>
+        <td>Festivo</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>12</td>
+        <td>21/08/2024</td>
         <td>Generadores</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>12</td>
-        <td>22/04/2024</td>
+        <td>13</td>
+        <td>26/08/2024</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>12</td>
-        <td>24/04/2024</td>
+        <td>13</td>
+        <td>26/08/2024</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
@@ -244,58 +258,52 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td><a href=""></a></td>
       </tr>
       <tr>
-        <td>Semana</td>
-        <td>13</td>
-        <td>01/05/2024</td>
-        <td>Festivo</td>
-        <td></td>
-      </tr>
       <tr>
         <td>Semana</td>
         <td>14</td>
-        <td>06/05/2025</td>
+        <td>02/09/2024</td>
         <td>Strings y expresiones regulares</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>14</td>
-        <td>08/05/2025</td>
+        <td>04/09/2024</td>
         <td>Testing</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>15</td>
-        <td>13/05/2024</td>
-        <td>Festivo</td>
+        <td>09/09/2024</td>
+        <td>Concurrencia y asincronismo</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>15</td>
-        <td>15/05/2024</td>
-        <td>Concurrencia y asincronismo</td>
+        <td>11/09/2024</td>
+        <td>Bonus</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>16</td>
-        <td>20/05/2024</td>
+        <td>16/09/2024</td>
         <td>Examen Final</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>17</td>
-        <td>27/05/2025</td>
+        <td>23/09/2024</td>
         <td>Entrega final proyecto</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>17</td>
-        <td>29/05/2025</td>
+        <td>25/09/2024</td>
         <td>Entrega final proyecto</td>
         <td></td>
       </tr>
@@ -306,7 +314,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 
 **Disclaimer:** Cualquier modificación se informará oportunamente
 
-**P.D.** Para más detalle revisar el [calendario académico](https://bogota.unal.edu.co/la-sede/calendario-academico).
+**P.D.** Para más detalle revisar el [calendario académico](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=108249).
 
 ## Código de honor
 *"Siempre parece imposible hasta que se hace."* **Nelson Mandela**
