@@ -177,29 +177,30 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>25/03/2024</td>
         <td>Semana Santa</td>
         <td></td>
-      </tr>
+      </tr> 
       <tr>
         <td>Semana</td>
         <td>9</td>
         <td>29/07/2024</td>
-        <td>Examen 1</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
-        <td>9</td>
-        <td>31/07/2024</td>
         <td>Manejo de excepciones</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase12">Clase 12</a><br>
         <a href="https://youtu.be/NN6DpBngTic">Excepciones</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>10</td>
-        <td>05/08/2024</td>
+        <td>9</td>
+        <td>31/07/2024</td>
         <td>Estructuras de datos</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.1</a><br>
         <a href="https://youtu.be/v_ahi64cQ6g">Estructuras de datos en python pt.1</a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>10</td>
+        <td>05/08/2024</td>
+        <td>Examen 1</td>
+        <td></td>
+      </tr>
       <tr>
         <td>Semana</td>
         <td>10</td>
