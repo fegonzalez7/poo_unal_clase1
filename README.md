@@ -235,7 +235,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>12</td>
         <td>21/08/2024</td>
         <td>Generadores</td>
-        <td><a href=""></a></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase15">Clase 15 </a></td>
       </tr>
       <tr>
         <td>Semana</td>
@@ -256,7 +256,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
         <td>14</td>
         <td>02/09/2024</td>
         <td>Decoradores</td>
-        <td></td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase15">Clase 15 </a></td>
       </tr>
       <tr>
         <td>Semana</td>
