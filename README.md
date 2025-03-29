@@ -6,6 +6,7 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación... Esta vez para
 **Nombre de la asignatura:** Programación Orientada a Objetos<br>
 **Código:** 2016375<br>
 **Nivel:** Pregrado<br>
+**Créditos:** 3<br>
 **Sede:** Bogotá<br>
 **Facultad:** Ingeniería<br>
 **Unidad que ofrece la asignatura:** Departamento de Ingeniería de Sistemas e Industrial<br>
@@ -14,8 +15,8 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación... Esta vez para
 
 **Docente:** [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html)<br>
 **Correo:** <mailto>fegonzalezro@unal.edu.co</mailto><br>
-**Slack del curso:** [Link para unirse](https://join.slack.com/t/poo-unal-2024-2-gr-4/shared_invite/zt-2thmy48pt-VOFQGtLYKba6sbpO7E4BWw)<br>
-**Classroom:** [Link para unirse](https://classroom.google.com/c/Njg2NTI4Njg2MjI5?cjc=ufh7qbu)<br>
+**Slack del curso:** [Link para unirse](https://join.slack.com/t/poo-unal-2025-1-gr-4/shared_invite/zt-330hwwxls-7l3U~4uCfUE1oYy1x8U_Kg)<br>
+**Classroom:** [Link para unirse](https://classroom.google.com/c/Njk4NjI5OTgyODg3?cjc=ncqsajmt)<br>
 
 ### Objetivos del curso
 <h3>Oficiales</h3>
@@ -44,9 +45,9 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 ## Evaluación
 | Tipo   | %  | Detalle  |
 | ------------ | ------------ | ------------ |
-| Exámenes  | 30 | Exámenes - 1er (15%) semana 8\*, Final (15%) semana 15 |
-| Proyecto  | 40  |  avance (15%) semana 10, entrega final (25%) semana 16\* - grupal |
-| Retos | 30  | Retos, preguntas, etc.  |
+| Exámenes  | 35 | Exámenes - 1er (15%) semana 8\*, Final (20%) semana 16 |
+| Proyecto  | 40  |  avance (7.5%) semana 10, entrega final (32.5%) semana 17\* - grupal |
+| Retos | 25  | Retos, preguntas, etc.  |
 
 - **Individual:**  Se desarrolla y se entrega de forma unipersonal.
 - **Grupal:** Se "desarrolla" y entrega de forma grupal. Para el curso se sugieren ternas. - **NO** es obligatorio trabajar de forma grupal, si desea trabajar solo o en parejas es aceptable, pero parte de los objetivos del curso es promover el trabajo en equipo, de modo que se recomienda hacerlo. Soy buen sacerdote (acepto uniones) pero mal abogado (pero no divorcios).
@@ -69,138 +70,145 @@ La información del curso se proporcionará mediante presentaciones o mediante r
       <tr>
         <td>Semana</td>
         <td>1</td>
-        <td>28/10/2024</td>
+        <td>31/01/2025</td>
         <td>Intro al curso</td>
         <td><a href="#programación-orientada-a-objetos---unal">Clase 1</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>1</td>
-        <td>30/10/2024</td>
+        <td>02/04/2025</td>
         <td>Herramientas</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase2">Clase 2</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>2</td>
-        <td>04/11/2024</td>
-        <td>Festivo</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase3"></a></td>
+        <td>07/04/2025</td>
+        <td>Conceptos de programación estructurada 1</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase3">Clase 3</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>2</td>
-        <td>06/11/2024</td>
-        <td>Conceptos de programación estructurada 1-2</td>
+        <td>09/04/2025</td>
+        <td>Conceptos de programación estructurada 2</td>
         <td>
-            <a href="https://github.com/fegonzalez7/poo_unal_clase3">Clase 3</a><br>
             <a href="https://github.com/fegonzalez7/poo_unal_clase4">Clase 4</a>
         </td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>3</td>
-        <td>11/11/2024</td>
-        <td>Festivo</td>
+        <td>14/04/2025</td>
+        <td>Semana Santa</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>3</td>
-        <td>13/11/2024</td>
+        <td>16/04/2025</td>
+        <td>Semana Santa</td>
+          <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>4</td>
+        <td>21/04/2025</td>
         <td>Objetos y clases</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase5">Clase 5</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>4</td>
-        <td>18/11/2024</td>
+        <td>23/04/20254</td>
         <td>Objetos y clases (en Python)</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase6">Clase 6</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>4</td>
-        <td>20/11/2024</td>
+        <td>5</td>
+        <td>28/04/2025</td>
         <td>Abstracción y Herencia</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase7">Clase 7</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>5</td>
-        <td>25/11/2024</td>
+        <td>30/04/2025</td>
         <td>Herencia vs Composición</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase8">Clase 8</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>5</td>
-        <td>27/11/2024</td>
+        <td>6</td>
+        <td>05/05/2025</td>
         <td>Sesión de práctica</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>6</td>
-        <td>02/12/2024</td>
+        <td>07/05/2025</td>
         <td>Encapsulamiento</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase9">Clase 9</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>6</td>
-        <td>04/12/2024</td>
+        <td>7</td>
+        <td>12/05/2025</td>
         <td>Polimorfismo</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase10">Clase 10</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>7</td>
-        <td>09/12/2024</td>
+        <td>14/05/2025</td>
         <td>Módulos y paquetes</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase11">Clase 11</a><br>
         <a href="https://youtu.be/WgD8n3-mmi0">Modulos y Paquetes - Intro Ikigai, charla motivacional</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>7</td>
-        <td>11/12/2024</td>
-        <td>Intro proyecto</td>
+        <td>8</td>
+        <td>19/05/2025</td>
+        <td>Intro proyecto - Sesión de práctica</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>8</td>
-        <td>16/12/2024</td>
+        <td>21/05/2025</td>
         <td>Examen 1</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>8</td>
-        <td>18/12/2024</td>
-        <td>Sesión de práctica</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
         <td>9</td>
-        <td>16/01/2025</td>
+        <td>26/05/2025</td>
         <td>Manejo de excepciones</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase12">Clase 12</a><br>
         <a href="https://youtu.be/NN6DpBngTic">Excepciones</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>10</td>
-        <td>20/01/2025</td>
+        <td>9</td>
+        <td>28/05/2025</td>
         <td>Estructuras de datos</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.1</a><br>
         <a href="https://youtu.be/v_ahi64cQ6g">Estructuras de datos en python pt.1</a></td>
+      </tr>
       <tr>
         <td>Semana</td>
         <td>10</td>
-        <td>22/01/2025</td>
+          <td>02/06/2025</td>
+          <td>Festivo</td>
+          <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>10</td>
+        <td>04/06/2025</td>
         <td>Filas (Queues)</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.2</a><br>
         <a href="https://youtu.be/JdYdOYzEQHA">Estructuras de datos en python pt.2</a></td>
@@ -208,84 +216,98 @@ La información del curso se proporcionará mediante presentaciones o mediante r
       <tr>
         <td>Semana</td>
         <td>11</td>
-        <td>27/01/2025</td>
+        <td>09/06/2025</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>11</td>
-        <td>29/01/2025</td>
+        <td>11/06/2025</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>12</td>
-        <td>03/02/2025</td>
+        <td>16/06/2025</td>
         <td>Iteradores</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase14">Clase 14</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>12</td>
-        <td>05/02/2025</td>
+        <td>18/06/2025</td>
         <td>Generadores</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase15">Clase 15</a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>13</td>
-        <td>10/02/2025</td>
-        <td>Decoradores</td>
-        <td><a href=""></a></td>
+          <td>23/06/2025</td>
+          <td>Festivo</td>
+          <td></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>13</td>
-        <td>12/02/2025</td>
+        <td>25/06/2025</td>
+        <td>Decoradores</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase15">Decoradores</a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>14</td>
+          <td>30/06/2025</td>
+          <td>Festivo</td>
+          <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>14</td>
+        <td>02/07/2025</td>
         <td>Strings y expresiones regulares</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>14</td>
-        <td>17/02/2025</td>
+        <td>15</td>
+        <td>07/07/2025</td>
         <td>Concurrencia y asincronismo</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>14</td>
-        <td>19/02/2025</td>
+        <td>15</td>
+        <td>09/07/2025</td>
         <td>Testing</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>15</td>
-        <td>24/02/2025</td>
-        <td>Examen Final</td>
+        <td>16</td>
+        <td>14/07/2025</td>
         <td></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
-        <td>15</td>
-        <td>26/02/2025</td>
         <td></td>
-        <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
         <td>16</td>
-        <td>03/03/2025</td>
+        <td>16/07/2025</td>
+        <td>Examen Final</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>17</td>
+        <td>21/07/2025</td>
         <td>Entrega final proyecto</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>16</td>
-        <td>05/03/2025</td>
+        <td>17</td>
+        <td>23/07/2025</td>
         <td>Entrega final proyecto</td>
         <td></td>
       </tr>
@@ -296,7 +318,7 @@ La información del curso se proporcionará mediante presentaciones o mediante r
 
 **Disclaimer:** Cualquier modificación se informará oportunamente
 
-**P.D.** Para más detalle revisar el [calendario académico](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=109305).
+**P.D.** Para más detalle revisar el [calendario académico](https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i=111244).
 
 ## Código de honor
 *"Siempre parece imposible hasta que se hace."* **Nelson Mandela**
