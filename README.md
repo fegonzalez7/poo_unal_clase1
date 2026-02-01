@@ -16,7 +16,7 @@ Bienvenidos (de nuevo) al emocionante mundo de la programación... Esta vez para
 
 **Docente:** [Felipe Gonzalez Roldan](https://felipeg17.github.io/index.html) - [LinkedIn](https://www.linkedin.com/in/felipegonzalezroldan/)<br>
 **Correo:** <mailto>fegonzalezro@unal.edu.co</mailto><br>
-**Slack del curso:** [Link para unirse](https://join.slack.com/t/poo-unal-2025-2-gr-4/shared_invite/zt-3bxjamjl1-cZsGzvjO4iDqOJnkLwhmWA)<br>
+**Slack del curso:** [Link para unirse](https://join.slack.com/t/poo-unal-2026-1-gr-4/shared_invite/zt-3owuiq7ye-_b~i3VOYnJvYFLo_vhRRRA)<br>
 
 ### Objetivos del curso
 
