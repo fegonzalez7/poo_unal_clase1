@@ -154,164 +154,222 @@ La información del curso se proporcionará mediante repositorios, la exposició
       </tr>
       <tr>
         <td>Semana</td>
-        <td>6</td>
-        <td>11/03/2026</td>
-        <td>Módulos y paquetes</td>
-        <td><a href="https://github.com/fegonzalez7/poo_unal_clase11">Clase 11</a><br>
-        <a href="https://youtu.be/WgD8n3-mmi0">Modulos y Paquetes - Intro Ikigai, charla motivacional</a></td>
-      </tr>      <tr>
-        <td>Semana</td>
-        <td>7</td>
-        <td>16/03/2026</td>
-        <td>Intro proyecto - Sesión de práctica</td>
-        <td><a href=""></a></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
-        <td>7</td>
-        <td>18/03/2026</td>
-        <td>Sesión de práctica</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
-        <td>8</td>
+        <td>9</td>
         <td>23/03/2026</td>
         <td>Festivo - San José</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>8</td>
-        <td>25/03/2026</td>
-        <td>Examen 1</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
-        <td>9</td>
+        <td>10</td>
         <td>30/03/2026</td>
         <td>Semana Santa - Receso académico</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>9</td>
+        <td>10</td>
         <td>01/04/2026</td>
         <td>Semana Santa - Receso académico</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>10</td>
-        <td>06/04/2026</td>
+        <td>12</td>
+        <td>13/04/2026</td>
+        <td>Módulos y paquetes</td>
+        <td><a href="https://github.com/fegonzalez7/poo_unal_clase11">Clase 11</a><br>
+        <a href="https://youtu.be/WgD8n3-mmi0">Modulos y Paquetes - Intro Ikigai, charla motivacional</a></td>
+      </tr>      
+      <tr>
+        <td>Semana</td>
+        <td>12</td>
+        <td>15/04/2026</td>
+        <td>Intro proyecto - Sesión de práctica</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>13</td>
+        <td>20/04/2026</td>
+        <td>Sesión de práctica</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>13</td>
+        <td>22/04/2026</td>
+        <td>Examen 1</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>14</td>
+        <td>27/04/2026</td>
         <td>Manejo de excepciones</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase12">Clase 12</a><br>
         <a href="https://youtu.be/NN6DpBngTic">Excepciones</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>10</td>
-        <td>08/04/2026</td>
+        <td>14</td>
+        <td>29/04/2026</td>
         <td>Estructuras de datos</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.1</a><br>
         <a href="https://youtu.be/v_ahi64cQ6g">Estructuras de datos en python pt.1</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>11</td>
-        <td>13/04/2026</td>
+        <td>15</td>
+        <td>04/05/2026</td>
         <td>Filas (Queues)</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase13">Clase 13 pt.2</a><br>
         <a href="https://youtu.be/JdYdOYzEQHA">Estructuras de datos en python pt.2</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>11</td>
-        <td>15/04/2026</td>
+        <td>15</td>
+        <td>06/05/2026</td>
         <td>Iteradores</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase14">Clase 14</a></td>
-      </tr>      <tr>
+      </tr>      
+      <tr>
         <td>Semana</td>
-        <td>12</td>
-        <td>20/04/2026</td>
+        <td>16</td>
+        <td>11/05/2026</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>12</td>
-        <td>22/04/2026</td>
+        <td>16</td>
+        <td>13/05/2026</td>
         <td>Avance de proyecto</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>13</td>
-        <td>27/04/2026</td>
+        <td>17</td>
+        <td>18/05/2026</td>
+        <td>Festivo - Día de la ascensión</td>
+        <td><a href=""></a></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>17</td>
+        <td>20/05/2026</td>
         <td>Generadores</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase15">Clase 15</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>13</td>
-        <td>29/04/2026</td>
+        <td>18</td>
+        <td>25/05/2026</td>
         <td>Decoradores</td>
         <td><a href="https://github.com/fegonzalez7/poo_unal_clase15">Clase 15</a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>14</td>
-        <td>04/05/2026</td>
-        <td>Festivo - Día del Trabajo</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Semana</td>
-        <td>14</td>
-        <td>06/05/2026</td>
+        <td>18</td>
+        <td>27/05/2026</td>
         <td>GUIs</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>15</td>
-        <td>11/05/2026</td>
+        <td>19</td>
+        <td>01/06/2026</td>
         <td>Por definir</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>15</td>
-        <td>13/05/2026</td>
+        <td>19</td>
+        <td>03/06/2026</td>
         <td>Por definir</td>
         <td><a href=""></a></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>16</td>
-        <td>18/05/2026</td>
+        <td>20</td>
+        <td>08/06/2026</td>
+        <td>Festivo - Corpus christi</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>20</td>
+        <td>10/06/2026</td>
         <td>Por definir</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>16</td>
-        <td>20/05/2026</td>
+        <td>21</td>
+        <td>15/06/2026</td>
+        <td>Festivo - Sagrado corazón</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>21</td>
+        <td>17/06/2026</td>
+        <td>Por definir</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>22</td>
+        <td>22/06/2026</td>
+        <td>Vacaciones Docentes</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>22</td>
+        <td>24/06/2026</td>
+        <td>Vacaciones Docentes</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>23</td>
+        <td>29/06/2026</td>
+        <td>Festivo - San Pedro y San Pablo</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>23</td>
+        <td>01/07/2026</td>
+        <td>Vacaciones Docentes</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>24</td>
+        <td>06/07/2026</td>
+        <td>Vacaciones Docentes</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Semana</td>
+        <td>24</td>
+        <td>08/07/2026</td>
         <td>Examen Final</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>17</td>
-        <td>25/05/2026</td>
+        <td>25</td>
+        <td>13/07/2026</td>
         <td>Entrega final proyecto</td>
         <td></td>
       </tr>
       <tr>
         <td>Semana</td>
-        <td>17</td>
-        <td>27/05/2026</td>
+        <td>25</td>
+        <td>15/07/2026</td>
         <td>Entrega final proyecto</td>
         <td></td>
       </tr>
